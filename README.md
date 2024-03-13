@@ -4,5 +4,6 @@
 ## modulo 3 -> Ordenamiento y Busqueda
 ### - Busqueda Binaria
 ### - SelectSort
+### - InsertSort
 ### - BubbleSort
 ### - MergeSort
