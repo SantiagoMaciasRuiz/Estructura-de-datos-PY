@@ -1,7 +1,7 @@
 def mergeSort (arr):
     if len(arr) == 1:
         return arr
-    
+     
     middle = len(arr) // 2
     left_array = arr[:middle]
     right_array = arr[middle:]
@@ -26,3 +26,5 @@ def Merge(left_arr,right_arr):
         arr_resultado.append(right_arr[0])
         right_arr.pop(0)
     return arr_resultado
+
+# incompleto
